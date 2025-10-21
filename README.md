@@ -35,4 +35,39 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 # OUTPUT
 
+Explanation:
+
+Two types of prompts were used:
+
+Naïve Prompt:
+
+Broad or unclear; lacks structure or specific instructions.
+
+Example: “Tell me about AI.”
+
+Basic (Refined) Prompt:
+
+Clear, detailed, and structured; provides proper context and expected output format.
+
+Example: “Explain Artificial Intelligence in 100 words, mentioning its definition, applications, and impact on modern industries.”
+
+<img width="1045" height="761" alt="image" src="https://github.com/user-attachments/assets/2bf5259c-2ebd-4ec7-b2c0-a5d9113244a9" />
+
+<img width="1047" height="634" alt="image" src="https://github.com/user-attachments/assets/846224e9-7f0b-4ad4-8ce2-9e88a125e1d6" />
+
+Findings:
+
+ChatGPT consistently produced better responses with basic prompts that were clear, specific, and contextual.
+
+Naïve prompts led to general, less focused answers.
+
+For creative or open-ended tasks, both prompt types worked, but refinement improved structure and emotional impact.
+
+Clear instructions significantly improved depth, coherence, and accuracy.
+
+Conclusion:
+
+Prompt clarity has a major influence on the quality and reliability of AI-generated content. Refined prompts with detailed context and structure produce superior responses in terms of quality, accuracy, and depth.
+
+
 # RESULT: The prompt for the above said problem executed successfully
